@@ -10,11 +10,11 @@ Real answers from a public machine manual (`Mounter.pdf`), with the manual and p
 
 **Procedure question:** step-by-step answer with page references
 
-![Starting production on the mounter](docs/demo-start-production.png)
+![Starting production on the mounter](demo-start-production.png)
 
 **Specific question:** answer grounded in a quoted excerpt, with a sources list
 
-![Nozzle and feeder compatibility](docs/demo-nozzle-feeders.png)
+![Nozzle and feeder compatibility](demo-nozzle-feeders.png)
 
 ## How it works
 
