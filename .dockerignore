@@ -1,0 +1,6 @@
+   .env
+   chroma_db/
+   manuals/
+   *.pdf
+   __pycache__/
+   .git/
